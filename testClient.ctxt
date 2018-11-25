@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=testClient
+comment0.text=\n\ Die\ Test-Klasse\ testClient.\n\n\ @author\ \ (Ihr\ Name)\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testHasBook()
+comment3.params=
+comment3.target=void\ testHasBookNoBook()
+comment4.params=
+comment4.target=void\ returnBook()
+comment5.params=
+comment5.target=void\ returnBookNoBooks()
+comment6.params=
+comment6.target=void\ returnBookCheckCorrectBook()
+numComments=7
